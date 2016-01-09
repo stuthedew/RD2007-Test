@@ -1,0 +1,8 @@
+# Site settings
+title: Teviso RD2007 Test
+email: stuart.feichtinger@gmail.com
+description: Testing the Teviso RD2007 radiation sensor attached to Adafruit Huzzah ESP8266 using an Americium-241 source from a smoke detector at various distances.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://github.com/stuthedew/RD2007-Test" # the base hostname & protocol for your site
+
+github_username:  stuthedew
